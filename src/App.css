@@ -1,0 +1,61 @@
+
+.logo{
+  font-size: 2vw;
+    color: #000;
+    text-decoration: none;
+    font-style: italic;
+}
+table {
+  width: 100%;
+  margin: 3% 0%;
+
+}
+tr th:first-child{
+  width: 20%;
+    vertical-align: bottom;
+    font-size: 1.5vw;
+    text-align: left !important;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 0% 2%;
+  text-align: center !important;
+  width: 16%;
+
+}
+.rightTickMax{
+  color: #fff;
+  font-size: 4vw;
+}
+.rightTickHead{
+  color: #90ee90;
+  float: right;
+  margin-top: 4%;
+  font-size: 2vw;
+}
+h3 a{
+  font-size: 1rem !important;
+}
+
+button{
+  border-radius: 30px !important;
+  margin-top: 2% !important;
+  padding-bottom: 2%;
+}
+.row:hover  {
+  background-color: transparent !important;
+}
+.row {
+  margin-bottom: 4%;
+}
+td:nth-child(3), td:nth-child(2), td:nth-child(4)
+{
+  cursor: pointer;
+}
+.bg_green{
+  background: #90ee90;
+}
+p{
+  font-size: 0.7rem;
+  color: #6b6b6b;
+}
